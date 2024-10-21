@@ -1,0 +1,62 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hotNews span a {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+}
+
+.news span a {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.rates span span {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.topBlock {
+  display: flex;
+}
+
+.topLeft {
+  width: 70%;
+}
+
+.topRighht {
+  width: 30%;
+}
+
+.column {
+  width: 30%;
+}
+
+.bottomBlock {
+  display: flex;
+}
+
+.searchBlock {
+  width: 1280px;
+  align-items: stretch;
+  margin: 20px;
+}
+
+.input-text {
+  width: 80%;
+  margin: 10px 10px 0px 10px;
+}
+
+.searchDirection a {
+  padding: 5px;
+  margin-right: 5px;
+}
